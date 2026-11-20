@@ -35,7 +35,7 @@ The repository serves as a reference for lab practice, revision, and practical e
 
 ## ⚙️ How to Compile and Run
 
-1. Turbo C / Turbo C++
+#1. Turbo C / Turbo C++
   1. Open Turbo C.
   2. Go to File → New.
   3. Type or paste the C program.
@@ -44,21 +44,21 @@ The repository serves as a reference for lab practice, revision, and practical e
   6. Press Ctrl + F9 to run.
 
 
-2. Dev-C++
+#2. Dev-C++
   1. Open Dev-C++.
   2. Select File → New → Source File.
   3. Paste the program and save as .c.
   4. Click Execute → Compile & Run or press F11.
 
 
-3. Online C Compiler
+#3. Online C Compiler
   1. Open any online C compiler (e.g., Programiz or OnlineGDB).
   2. Paste the program into the editor.
   3. Click Run.
   4. Enter input if prompted and view the output.
 
 
-4. Visual Studio Code (VS Code)
+#4. Visual Studio Code (VS Code)
   1. Install VS Code and the C/C++ extension.
   2. Install a C compiler (GCC/MinGW).
   3. Open the .c file in VS Code.
